@@ -1,0 +1,19 @@
+name: Cameron's blog
+description: writing about interesting things
+meta_description: "writing about interesting things"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl:
+domain_name: "camoverride.com"
+google_analytics:
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Cameron Smith"
+
+# Disqus config
+disqus-shortname: ""

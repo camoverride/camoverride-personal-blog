@@ -1,2 +1,1 @@
-# camoverride-personal-blog
-My personal blog
+# personal blog
