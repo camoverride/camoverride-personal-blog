@@ -1,10 +1,15 @@
 ---
 layout: post
-title: I was a Forager in San Francisco 🥬
+title: Foraging in San Francisco 🥬
 categories: [blog]
 comments: true
 published: false
 ---
+
+Walden. Fuck the wilderness - im a city boy
+
+
+
 
 I live in Bernal Heights, a small neighborhood on a hill. From my apartment you can see a panorama of San Francisco: from the Golden Gate Bridge to the Bay Bridge, with Mid-Market and the Mission in between. On Friday I went for a walk. This blog post is about the plants I collected and ate along the way.
 

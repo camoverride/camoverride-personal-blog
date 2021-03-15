@@ -5,7 +5,15 @@ categories: travel
 comments: true
 published: false
 ---
-![soviet posters from the chernobyl ruins]({{ site.url }}/img/chernobyl.png)
+
+When I was a kid, my dad got a new job in California. So my family packed up our bags and moved across the country - it would be a decade before I'd visit New Jersey again. I remember the shock of everything being new: palm trees instead of maples, rolling brown hills instead of rivers and lakes, Mexican food instead of Italian. I have the distinct memory of walking home from school one day and watching snow pour out of the sky all around me - snow in California! Snow in the _summer_! I also remember the shock I felt when I realized that the snowflakes were actually __ashes__ - a fire was raging on the other side of one of the hills... you could hear the faint scream of firetrucks on the horizon.
+
+
+
+
+
+
+![soviet posters from the chernobyl ruins]({{ site.url }}/assets/images/chernobyl.png)
 
 After the Cherobyl nuclear disaster in 1986, a Zone of Alienation (The Zone) was established in the vicinity of the Chernobyl nuclear power plant. Humans were evacuated by the Soviet military and never allowed to return. But The Zone is not entirely abandoned: it's been re-inhabited by wolves, badgers, moose, and foxes -- all species that had gone extinct in The Zone long ago...
 
@@ -21,4 +29,14 @@ Each of these are examples of "involuntary parks," created unintentionally by hu
 
 As the coronavirus suppresses economic activity across the world, we're entering a phase when the entire planet is being turned into a (temporary) involuntary park. The skies over China are clearing of smog, the rivers are de-acidifying, there are fewer cars on the street and planes in the air... I'm not sure if this is a good thing or a terrible thing, but hopefully it makes you pause to think, like it made me.
 
-![ruins of ishinomaki]({{ site.url }}/img/ishinomaki.png)
+![ruins of ishinomaki]({{ site.url }}/assets/images/ishinomaki.png)
+
+
+
+Unrecognized state(link)
+
+DMZ
+Centralia
+UN Buffer Zone
+Aghdam
+Ishinomaki

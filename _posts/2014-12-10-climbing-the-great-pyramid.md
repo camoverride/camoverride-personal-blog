@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climbing the Great Pyramid of Giza at Night 🧗
+title: Climbing the Great Pyramid of Giza 🧗
 categories: travel
 comments: true
 published: false
