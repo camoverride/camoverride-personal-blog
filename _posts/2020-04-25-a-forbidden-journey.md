@@ -23,7 +23,7 @@ Over the last two centuries things have calmed down a bit: there are more fast f
 
 __Preface: Lisbon__ - maybe the worst city I've ever visited: old, dreary, a heavy atmosphere that weighs down on you like sticky sap hardening into amber, a place that was the center of the world - *500 years ago* - a long fall from a high zenith, mealy, embalmed, reduced to night clubs, expensive boutique stores, *haute cuisine*, antique shops catering to tourists... this is really really not my vibe. Islam, on the other hand, had a rise, a fall, and is rising again... there's something about the desert that's eternal, transcendent, full of potential... Ibn Khaldun called this energy *asabiyyah*, an invigorating life force that's responsible for the rise and fall of civilizations...
 
-Two flights later and two splendid weeks in Khartoum. There are pyramids here too, and endless sand, minarets. There's no international banking in Sudan, so I rush to re-activate my debit card as the shuttle rumbles down the tarmac. Press 1 to be connected to a customer service representative. The flight from Khartoum is short and uneventful. I nod off for a few minutes even though it's the afternoon.
+Two flights later and two splendid weeks in Khartoum. There are pyramids here too, and endless sand, minarets. There's no international banking in Sudan, so I rush to re-activate my debit card as the shuttle rumbles down the tarmac. _Press 1 to be connected to a customer service representative._ The flight from Khartoum is short and uneventful. I nod off for a few minutes even though it's the afternoon.
 
 Abha International Airport - capital of the Asir region of Saudi Arabia - is modern, relaxed. Gender segregation is immediately apparent: there are separate immigration lines for men and women. The e-Visas that we've purchased online are still uncommon, and the immigration officials take pictures of our documents on their cellphones and hand-write visa numbers in our passports.
 
@@ -186,13 +186,7 @@ We exit the city nervously, heading towards Jeddah. We stop on the side of the r
 
 ## Jeddah
 
-People have locked their arms together in a tight circle that rings the Kaaba: they want to be first in line for the noon prayer, which will happen shortly. I see women fighting to kiss the *black stone*. I try to push my way through the wall of pilgrims so that I can kiss the stone or touch the cube, but everyone refuses to budge, fearful of losing their opportunity (possibly the only one they'll have in their entire lifetime) of praying so close to the abode of God. I don't want to take this opportunity away from a true believer, so I don't push my luck.
-
-The noon prayer is quickly approaching. Being non-Muslims and having no idea how to pray, it's imperative that we get the hell out of there before the prayer starts and our cover is blown. The peristalsis of thousands of bodies pushes me back into my counter-cloclwise orbit. I circle the Kaaba again, hoping against hope for some gap in the wall of people to emerge, but none appears. Muslims are required to make seven circumalbulations of the Kaaba, but I stop after only four: a *half-Hajj*.
-
-With only a few minutes to spare, we retrace our steps and return to the car. As we're driving off the call to prayer starts. People are prostrate on sidewalks, all facing towards the Kaaba.
-
-We exit the city nervously, heading towards Jeddah. We stop on the side of the road and change back to our Western clothing. We've done it.
+Jeddah – boring. We walk around the city looking for food. Eason looks extremely satisfied. I'm melting in the heat. This place is dispassionate, secular, uninteresting. In Mecca I saw people from around the world in varying states of religious ecstasy. Even though I'm an atheist, I certainly felt *something* as I walked around the Kaaba. All the layers of modernity and exploitation and fast food and diesel exhaust and buy 1 get 1 free deals and overdevelopment melted away and something very intimate - intimate despite the presence of tens of thousands of anonymous strangers - seemed to unveil itself around me. I can't say that Mecca was perfect or that it conformed to naive expectations of spiritual enlightenment, but I think its imperfection is what made it all the more meaningful and personal. After all, when you take the stock of God's creation you have to account for both the good and the evil, the mighty and the mundane, the peak of Mount Everest and the KFC down the street. Mecca was an experience that I'll never be able to forget.
 
 
 ## San Francisco
