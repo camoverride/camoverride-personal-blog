@@ -86,7 +86,7 @@ We approach the coastal plain. The rise of the land prevents us from seeing the 
 
 I spend the first of my Saudi riyals on water and coconut chocolates at a small market. We continue north, scouting for campsites. Traffic on the coastal highway is not heavy. The landscape has transformed into something from the *Arabian Nights*: camels, palm trees, illusory oases on the horizon.
 
-![picture of a camel in the back of a pickup]({{ site.url }}/assets/images/camel_pickup.png)
+![picture of a camel in the back of a pickup]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journeycamel_pickup.png)
 
 There's a tall stone wall on our left as we drive north – this wall separates us from the dunes that stretch out to the sea. We drive until we find a place where a sandbank has created a ramp to the top of the wall. I rush out of the car and scamper up the wall. The sea is distant and difficult to make out – the sun is only a couple palm-widths above it. Between the wall and the ocean are a mile of sand dunes, scattered shrubs, and rain-wet depressions: an enormous, empty sandbox. This is the *perfect* campsite.
 
@@ -96,7 +96,7 @@ That night we see the entirety of the Milky Way. Most of the named stars have A
 
 It's New Years Eve. I tether my computer to my cell phone and purchase an Indian visa that I'll use in a few days, assuming that we don't get arrested or imprisoned. However, I have a long history of successful trespassing, so I'm not *too* worried…
 
-![eason sitting in front of the tent on the beach]({{ site.url }}/assets/images/eason_tent.png)
+![eason sitting in front of the tent on the beach]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journeyeason_tent.png)
 
 
 ## Taif
@@ -114,7 +114,7 @@ We take the fork in the road towards Mecca. We pass abandoned buildings. Inside 
 <p style="text-align:center">God is not circumspect</p>
 <p style="text-align:center">when speaking to his elect</p>
 
-![old rotting korans]({{ site.url }}/assets/images/dry_korans.png)
+![old rotting korans]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journeydry_korans.png)
 
 A sign points the way towards the *haram*, an Arabic word which literally means **forbidden**. Things can be haram (like alcohol), but so can places. The holy city is protected by gates of haram to ensure purity, to keep non-believers out. We will soon test them. Another sign reminds us that the coming road is off-limits to non-Muslims.
 
@@ -122,7 +122,7 @@ The terrain becomes sharp. Brown naked mountains rise on every side of us, like 
 
 The gates of haram are adjacent to checkpoints where non-Muslims are turned away. We decide to drive through a checkpoint but aren't detected – the guard doesn't even look at us. We pass through the haram boundary… and decide to turn back, taking a longer, safer route to Taif where we check into a hotel and prepare for the next morning.
 
-![a sign that shows directions to Mecca]({{ site.url }}/assets/images/mecca_sign.png)
+![a sign that shows directions to Mecca]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journeymecca_sign.png)
 
 We're almost completely unprepared to visit Mecca. Besides its general geographic location, we don't know anything about what to expect. Both of us have a *learn as you go* approach to traveling, so it's time to do some research.
 
@@ -179,7 +179,7 @@ Eventually I decide to ignore our confused GPS and drive up an incline behind so
 
 We are much taller, paler, and possibly more nervous-looking than the other pilgrims. But Islam isn't a religion tied to a particular geographic location or ethnic group: people of all shapes and sizes are present.
 
-![me wearing white ihram clothing in front of the kaaba]({{ site.url }}/assets/images/cameron_ihram.png)
+![me wearing white ihram clothing in front of the kaaba]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journeycameron_ihram.png)
 
 There's no point looking at a map: we follow the surge of bodies down to the mosque's entrance. A large plaza opens up before us: minarets, tens of thousands of pilgrims. We stop at a fountain outside the mosque's entrance and drink water pumped up from the *Zamzam Well*.
 
@@ -208,4 +208,4 @@ Jeddah – boring. We walk around the city searching for food. Eason looks extre
 
 A few weeks after my trip to Saudi Arabia, an unusual email appeared in my inbox. The tourist ministry of Saudi Arabia was interested in hearing feedback about my recent vacation. I was happy to oblige.
 
-![questionaire from the Saudi Ministry of Tourism]({{ site.url }}/assets/images/saudi_tourism.png)
+![questionaire from the Saudi Ministry of Tourism]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journeysaudi_tourism.png)
