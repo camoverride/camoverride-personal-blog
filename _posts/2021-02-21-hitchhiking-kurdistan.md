@@ -12,39 +12,42 @@ But maybe it makes more sense than that - as I try to recall the memories and st
 
 ![video of peshmerga soldiers fighting ISIS. Source: [https://www.youtube.com/watch?v=jwzbdm5QMmw&t=01m25s](https://www.youtube.com/watch?v=jwzbdm5QMmw&t=01m25s)]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/peshmerga_vs_isis_15s.gif)
 
-The Islamic State ([ISIL](https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant)) was born in the deserts of Western Iraq, where fighters driving [technicals](https://en.wikipedia.org/wiki/Technical_(vehicle)) overran cities and proclaimed a new caliphate. ISIL militants massacred Shia's, [Yazidi's](https://en.wikipedia.org/wiki/Sinjar_massacre), and any Sunni Muslims they viewed as heretics. The Islamic State quickly metastisized, following the path of the Euphrates all the way to the gates of Baghdad in the East while also threatening Damascus in the West. This part of the world had been torn apart by the Syrian and Iraqi civil wars - cities depopulated, factories abandoned, fields of bones, the desert reclaiming farms, sand washing over highways... This region had barely begun to recover before being overwhelmed by a new enemy.
+[The Islamic State of Iraq and the Levant](https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant) (ISIL or ISIS) was born in the deserts of Western Iraq, where fighters driving [technicals](https://en.wikipedia.org/wiki/Technical_(vehicle)) overran cities and proclaimed a new caliphate. ISIS militants massacred Shia's, [Yazidi's](https://en.wikipedia.org/wiki/Sinjar_massacre), and any Sunni Muslims they viewed as heretics. The Islamic State quickly metastisized, following the path of the Euphrates all the way to the gates of Baghdad in the East while also threatening Damascus in the West. This part of the world had been torn apart by the Syrian and Iraqi civil wars - cities depopulated, factories abandoned, fields of bones, the desert reclaiming farms, sand washing over highways... This region had barely begun to recover before being overwhelmed by a new enemy.
 
-In the East, Syrian forces with Russian military support managed to keep ISIL away from the densely populated Mediterranean coast, even as it gobbled up a third of the nation. In the North, the world watched as Kurdish forces in Rojava repelled the Islamic State during a protracted siege - the Stalingrad of the Syrian Civil War - even though later the Turks would betray their erstwhile allies as the city was bargained off to Assad and Putin. Out of the chaos a new proto-state, Rojava, would be born - an experiment in libertarian socialism in the Kurdish heartland.
+In the East, Syrian forces with Russian military support managed to keep ISIS away from the densely populated Mediterranean coast, even as it gobbled up a third of the nation. In the North, the world watched as Kurdish forces in Rojava repelled the Islamic State during a protracted siege - the Stalingrad of the Syrian Civil War - even though later the Turks would betray their erstwhile allies as the city was bargained off to Assad and Putin. Out of the chaos a new proto-state, Rojava, would be born - an experiment in libertarian socialism in the Kurdish heartland.
 
-While this was happening in the North and East, the Islamic State was fighting American and Iraqi forces on the outskirts of Baghdad. The tide was beginning to turn in favor of the Kurds: the Kurdish security forces (*_Peshmerga_*) were launching [a campaign](https://en.wikipedia.org/wiki/Battle_of_Kirkuk_(2016)) to liberate Kirkuk - sometimes called "the heart of Kurdistan" - from ISIL. The TV stations had 24-hour coverage of the fight: Peshmerga soldiers rushing to the front lines, machine gun fire kicking up clouds of dust, shaky images of mortar shells obliterating neighborhoods, the bodies of heroic Kurdish martyrs being pulled from the rubble...
+While this was happening in the North and East, the Islamic State was fighting American and Iraqi forces on the outskirts of Baghdad. The tide was beginning to turn in favor of the Kurds: the Kurdish security forces (_Peshmerga_) were launching [a campaign](https://en.wikipedia.org/wiki/Battle_of_Kirkuk_(2016)) to liberate Kirkuk - sometimes called "the heart of Kurdistan" - from ISIS. The TV stations had 24-hour coverage of the fight: Peshmerga soldiers rushing to the front lines, machine gun fire kicking up clouds of dust, shaky images of mortar shells obliterating neighborhoods, the bodies of heroic Kurdish martyrs being pulled from the rubble...
 
-![peshmerga soldier in front of a picture of George W Bush. Source: self]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/peshmerga_and_bush.png)
+![hitchhiking in a car in Iraqi Kurdistan]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/car_hitchhiking.gif)
 
 I decided that I needed to revisit these old notes in order to take account of everything I experienced in this chaotic part of the world - to attach myself to history instead of letting it pass by. Without some kind of narrative, these memories are just disconnected fragments that can whither away and melt like icicles in the sun. The war is the backdrop, the setting, and I was lucky enough to only experience it indirectly - but I'm still entangled. Where I enter the story is at Sulaymaniyeh International Airport in Iraqi Kurdistan.
 
 ## Slemani
 
-Sulaymaniyeh (السليمانية - reduced to *_Slemani_* by the locals) is one of the largest cities in the Kurdistan region of northern Iraq. Americans need a visa to enter Iraq, but **__not__** Kurdistan - a nation inside of a nation. Americans are viewed positively here - after all, it was George W Bush who killed Saddam, a great [enemy of the Kurds](https://en.wikipedia.org/wiki/Anfal_genocide), and whose father, George H W Bush, is credited with [protecting the Kurds](https://en.wikipedia.org/wiki/Iraqi_no-fly_zones_conflict) during the first Gulf War by establishing a no-fly zone. *_America, great!_* the border security official said as he did a cursory inspection of our passports and stamped them.
+Sulaymaniyeh (السليمانية - reduced to _Slemani_ by the locals) is one of the largest cities in the Kurdistan region of northern Iraq. Americans need a visa to enter Iraq, but __not__ Kurdistan - a nation inside of a nation. Americans are viewed positively here - after all, it was George W Bush who killed Saddam, a great [enemy of the Kurds](https://en.wikipedia.org/wiki/Anfal_genocide), and whose father, George H W Bush, is credited with [protecting the Kurds](https://en.wikipedia.org/wiki/Iraqi_no-fly_zones_conflict) during the first Gulf War by establishing a no-fly zone. _America, great!_ the border security official said as he did a cursory inspection of our passports and stamped them.
+
+![peshmerga soldier in front of a picture of George W Bush. Source: self]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/peshmerga_and_bush.png)
 
 Outside the airport, I immediately noticed the overwhelming smell of diesel - with a power grid prone to failure and sabotage, many homes and businesses run their own generators, powered by petrol that's only slightly more expensive than bottled water. A brownish smog hung over valley, blending in with the hills on the horizon. As we walked from the airport towards the city center, a driver was kind enough to pull over and give us our first ride.
 
-![men baking bread in a tandoor-style oven in a bakery in Slemani]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/bakery_in_slemani.png)
+We found a hotel and dropped off our bags before setting out to explore. The city was beautiful, complicated. Small parks and gardens overflowed with pomegranates and daffodils. Ancient mosques were sandwiched between new mid-rise apartment buildings. Armed convoys patrolled the streets, men with guns walking right past revolutionary graffiti - _PKK_ _Peshmerga_ _Öcalan_.
 
-We found a hotel and dropped off our bags before setting out to explore. The city was beautiful, complicated. Small parks and gardens overflowed with pomegranates and daffodils. Ancient mosques were sandwiched between new mid-rise apartment buildings. Armed convoys patrolled the streets, men with guns walking right revolutionary graffiti - *_PKK_* *_Peshmerga_* *_Öcalan_*.
-
-There's a hill in the middle of the city that overlooks everything - sort of like the acropolis in Athens. Perched on top is the *_Grand Millennium Hotel and shopping mall_* which we visited to get a view of the valley. The building was mostly abandoned - just a skeleton crew of guards and cleaners to keep the place from being robbed or falling into decay. This weird kind of abandonment - upscale infrastructure build for an upper class that doesn't yet exist - would be repeated in different forms in other places in Iraq.
+There's a hill in the middle of the city that overlooks everything - sort of like the acropolis in Athens. Perched on top is the _Grand Millennium Hotel and shopping mall_ which we visited to get a view of the valley. The building was mostly abandoned - just a skeleton crew of guards and cleaners to keep the place from being robbed or falling into decay. This weird kind of abandonment - upscale infrastructure build for an upper class that doesn't yet exist - would be repeated in different forms in other places in Iraq.
 
 ![market scene in Slemani, Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/slemani_market.png)
 
-From the Grand Millennium we descended into the old city, where the grid yields to a chaotic tangle of ancient streets and alleyways. The market (*_souq_* in Arabic, borrowed into Kurdish) was packed with activity of every kind: street vendors selling watches, kids chasing soccer balls, old arch-backed men under umbrellas playing cards or smoking hookahs.
+From the Grand Millennium we descended into the old city, where the grid yields to a chaotic tangle of ancient streets and alleyways. The market (_souq_ in Arabic, borrowed into Kurdish) was packed with activity of every kind: street vendors selling watches, kids chasing soccer balls, old arch-backed men under umbrellas playing cards or smoking hookahs.
 
-The lack of women on the streets was very obvious: it was **__men__** playing snooker, **__men__** buying toilet paper, __men__ baking bread, __men__ fingering guitars, and **__men__** shooting friendly smiles and greetings at us. Many of the older men wore the traditional Kurdish outfit: baggy Aladdin pants, a shirt of the same color, a sash around the waist so that it looks like the outfit is one piece (not two), a vest, a keffiyah tied around their head, and a blue or white undershirt.
+The lack of women on the streets was very obvious: it was __men__ playing snooker, __men__ buying toilet paper, __men__ baking bread, __men__ fingering guitars, and __men__ shooting friendly smiles and greetings at us. Many of the older men wore the traditional Kurdish outfit: baggy Aladdin pants, a shirt of the same color, a sash around the waist so that it looks like the outfit is one piece (not two), a vest, a keffiyah tied around their head, and a blue or white undershirt.
 
-![a bakery in Slemani, Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/bakery_in_slemani.png)
+![men baking bread in a tandoor-style oven in a bakery in Slemani]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/bakery_in_slemani.jpg)
 
 These bakers were enthusiastic about getting their picture taken. Unlike conventional travel destinations, there are no signs of scammers or criminals anywhere in Kurdistan - all the friendliness we experienced was genuine, though it took a few days for me to lower my defenses and learn to accept the local hospitality.
 
 After a couple days exploring Slemani we decided to hit the road. We walked to the edge of the city where the valley fanned out into a dusty plain. In the shade of a tall olive tree we dropped our bags, stuck out our thumbs, and got into a car heading West.
+
+![bustling souq in Slemani]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/souq_scene.gif)
+
 
 ## The Tomb of Cyaxares
 
@@ -58,43 +61,51 @@ We jumped in another car and headed North. Halfway between Tasluja and Dokan is 
 
 The tomb itself is half-way up a sheer cliff face, which makes you wonder how it was ever carved in the first place — though the metal scaffolding that lets you climb up to it suggests that an ancient wooden scaffolding once existed here. From the top of the raised platform you can see miles and miles of rolling brown hills, the jagged marks of dirt roads, and a few flocks of sheep being chased by their shepherds.
 
-The tomb is flanked by primitive-looking Ionian columns, which predate any Ionian Columns in Greece - this has led some historians to conclude that this architectural style was invented first by the Medians. Also, in contrast to its standard depiction, the [Faravahar](https://en.wikipedia.org/wiki/Faravahar) symbol left of the tomb's entrance has wings that curl upwards. I'm not sure why someone spray-painted __**ناتۆ__** (NATO) all over the tomb's facade.
+The tomb is flanked by primitive-looking Ionian columns, which predate any Ionian Columns in Greece - this has led some historians to conclude that this architectural style was invented first by the Medians. Also, in contrast to its standard depiction, the [Faravahar](https://en.wikipedia.org/wiki/Faravahar) symbol left of the tomb's entrance has wings that curl upwards. I'm not sure why someone spray-painted __ناتۆ__ (NATO) all over the tomb's facade.
 
 ![The heavily vandalized tomb of the Median king Cyaxares]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/tomb_of_cyaxares.png)
 
-The road to Qyzqapan is narrow and almost completely untraveled. We were lucky enough to get a ride almost all the way there, and only had to walk about a half hour. We were equally lucky on the way back, when Hiwa , a Kurdish man from the UK who was home visiting family, gave us a ride. He insisted that we have lunch at his home.
+The road to Qyzqapan is narrow and almost completely untraveled. We were lucky enough to get a ride almost all the way there, and only had to walk about a half hour. We were equally lucky on the way back, when Hiwa, a Kurdish man from the UK who was home visiting family, gave us a ride. He took us to see some of the local tourist attractions: a lush valley packed with shrines, a panoramic pull-out on the side of the highway, and a few stops to introduce us to cousins. He insisted that we have lunch at his home.
 
 We were driven into a remote hamlet deep in the hills and chauffeured through trellises draped in grape vines to the family home. We met Hiwa's father, who sat crossed-legged next to us on the floor and joined us for tea as the meal was prepared.
+
+![Eason, Cameron, and Hiwa standing in front of a waterfall]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/eason_cameron_hiwa_at_waterfall.jpg)
 
 A plastic sheet was spread out on the carpet, then dishes overflowing with rice, tomatoes, peppers, green onions, kebabs, cucumbers, feta cheese, olives, flatbread, clear soup, and yogurt. My favorite Kurdish food — _yaprax_ (vegetarian cabbage wraps that resemble dolmas) — were part of the spread, and the family found it funny that I was able to devour so many.
 
 After a couple of hours enjoying a Kurdish lunch, Hiwa whisked us back to the highway where we caught another car heading towards Dokan and Erbil. At some point I'd stop and run down to the Little Zab river and put my feet in the water. This river flows south east and empties into the Tigris, cutting a path halfway between Kirkuk and Erbil.
 
-![Lunch with Hiwa's family in a small hamlet in Iraqi Kurdistan]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/food_with_locals_in_kurdistan.png)
+![Lunch with Hiwa's family in a small hamlet in Iraqi Kurdistan]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/food_with_locals_in_kurdistan.jpg)
 
 ## The Peacock Angel
 
 Erbil is to Slemani as New York is to San Francisco: buildings that are bigger, taller, denser - an atmosphere that's more authoritarian, traditional, and chaotic, but also more diverse, faster paced, bigger. On the way into the city I remember driving past rows and rows of soldiers flanking the highway, standing rigidly in formation, rifles over their soldiers, facing the traffic. I remember the armored personnel carriers parked at intersections, soldiers camped out in the shade of tarps draped over tank guns. Downtown there were men in suits everywhere, scurrying between their cramped and sweaty apartments and office buildings, mingling with soldiers and the merchants, thick and diverse crowds.
 
+![Guy guarding a residential compound in Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/guard_with_ak_47.gif)
+
 Eason and I were a curiosity here. We're both 6'6" (almost 200 cm), thin, and dress strangely (especially by Middle Eastern standards). Many people wanted to chat with us. We got a lot of stares. But like in Slemani, the locals were genuine and friendly - no hint of crime, scams, or any anti-American sentiment.
 
-My notes from Erbil are sparse. They're eclipsed by what I saw later on. A few hours northwest of the city is Lalish, a temple complex that's the holiest place in the Yazidi religion. We wanted to visit, but again we had to take a long detour to avoid another city occupied by ISIL forces: Mosul, a place that saw fierce fighting in 2004 during the American invasion and had fallen to ISIL in 2014.
+My notes from Erbil are sparse. They're eclipsed by what I saw later on. A few hours northwest of the city is Lalish, a temple complex that's the holiest place in the Yazidi religion. We wanted to visit, but again we had to take a long detour to avoid another city occupied by ISIS forces: Mosul, a place that saw fierce fighting in 2004 during the American invasion and had fallen to ISIS in 2014.
 
 We hitchhiked the backroads, crossing the Great Zab River where I took another dip and snapped some photos. The austere terrain was mostly empty of humans - just a few small hamlets scattered here and there in ancient dried up river valleys. At many of the rest stops I'd see large propaganda posters of the President Barzani and flags from his Kurdistan Democratic Party.
 
-It was getting dark so we decided to overshoot Lalish and spend the night in Duhok, a medium-sized city flooded with Christian and Yazidi refugees who had fled the onslaught of the Islamic States. As non-Muslims, these groups were vulnerable to persecution by ISIL - especially Yazidis, who aren't *people of the book* (followers of Abrahamic religions who are fellow monotheists) and are frequently referred to as 'devil worshippers' by their neighbors.
+![The Zab river in Iraqi Kurdistan]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/zab_river.jpg)
+
+It was getting dark so we decided to overshoot Lalish and spend the night in Duhok, a medium-sized city flooded with Christian and Yazidi refugees who had fled the onslaught of the Islamic States. As non-Muslims, these groups were vulnerable to persecution by ISIS - especially Yazidis, who aren't *people of the book* (followers of Abrahamic religions who are fellow monotheists) and are frequently referred to as 'devil worshippers' by their neighbors.
 
 The next morning we decided to cheat and hire a taxi to drive us to Lalish. We weren't sure what reception we would have and wanted the legitimacy of a paid-ride. Our driver, a Muslim, was nervous about the prospect of bringing us into a den of devil-worshippers, but agreed and became as enthusiastic about the road trip as we were.
 
-![Our car broke down on the way to Lalish]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/car_broke_down_lalish.jpg)
+![The taxi ride to Lalish]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/taxi_to_lalish.gif)
 
 On the way to Lalish I saw a column of black smoke pouring up from the horizon. As we approached I noticed the smoke stack - a huge belching oil refinery. Not long after the car broke down, and Eason and our driver spent a half an hour replacing the gas pump. Our driver brought us into the narrow meandering valley of Lalish and dropped us off in a mostly empty parking lot. He told us he'd come back and pick us up in a couple hours.
+
+![Our car broke down on the way to Lalish]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/car_broke_down_lalish.jpg)
 
 Yazidis believe that god created the world by casting a white pearl into the cosmic ocean. As it sunk into the depths, the pearl shattered, becoming the substance from which the material universe would be formed. To assist in his work, god created the Peacock Angel, Tawsi Melek. Six more angels were fashioned by god to assist Tawsi Melek, greatest of the angels, in his creation of the world.
 
 After the earth was created it began shaking uncontrollably. Tawsi Melek descended from heaven in the form of a peacock and stopped the shaking. He then transferred the rainbow colors of his plumage to the earth, filling it with flora and fauna. The place that Tawsi Melek descended to is Lalish.
 
-![The valley of Lalish, full of weird spire buildings]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/derp.png)
+![The valley of Lalish, full of weird spire buildings]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/lalish_scenery.jpg)
 
 Many of the religion's holiest places are located in Lalish. The centerpiece is the tomb of Sheikh Adi ibn Musafir, but there are many other smaller sites and ruins. The tomb has a large courtyard in front of it where a few people were milling around. A couple of old men dressed in white robes sat near the tomb's entrance, their eyes closed, in some kind of meditation. The place was quiet, but not uninviting.
 
@@ -114,7 +125,7 @@ After spending half a day in Lalish, we drove back to Duhok, gave our driver a f
 
 We set out for Turkey the next morning. A curtain of dust, smog, danced on the peripheries of the highway. I visualized a giant mouth exhaling smoke, sucking us in. Roadblocks were more common here. When we passed one, the local militias would ask us to step out of the car while they investigated. Walkie talkie. Usually they had no idea what to make of us — two tall, thin, beardless Americans — software engineers from San Francisco — obviously not part of ISIS — not spies — but tourists? — No way.
 
-We were invited into one of the guard stations where we were given tea and biscuits. The militiaman proudly pointed to a picture of George Bush on the wall behind him. We had to wait until each of his comrades took turns gawking at us and experimenting with different English phrases: *Where are you from?* *America, good! Do you like Kurdistan? I love you.*
+We were invited into one of the guard stations where we were given tea and biscuits. The militiaman proudly pointed to a picture of George Bush on the wall behind him. We had to wait until each of his comrades took turns gawking at us and experimenting with different English phrases: _Where are you from? America, good! Do you like Kurdistan? I love you._
 
 I'd managed to learn a little bit of Kurdish myself. Unfortunately, I'd learned _Sorani_ Kurdish, which isn't spoken in the northern part of Iraqi Kurdistan where _Kurmanji_ is dominant. The Kurdish languages are as diverse as the Romance languages: Sorani, Kurmanji, Zaza, and Gorani are like Spanish, French, Italian, and Portuguese. Despite my language limitations, the militiamen were extremely excited that I knew a few words in Kurdish - even if it was a dialect they didn't speak
 
@@ -128,13 +139,13 @@ Somehow we made it to Turkey. We passed through Silopi: truly hellish. A diaphan
 
 Just before Cizre the highway arched towards the Tigris. Just a few meters away was the river. Right across it Rojava. A new country going through its birthing pains. A place where other Westerners had gone to fight, tried to manifest their utopian visions, died. I understand this fantasy: the limitless potential of chaos, the undressing of civilization, shaking the etch-a-sketch. I felt the pull.
 
-![Screenshot of Google Maps, showing how close we were to Syria/Rojava]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/google_maps_rojava.png)
+![Screenshot of Google Maps, showing how close we were to Syria/Rojava]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/Screenshot_20161022-103927.png)
 
 We arrived late at night in Cizre. I remember the dusty plastic fruits hanging from the balustrade of our cheap hotel. There was a two-inch gap beneath our room's door that let flies in.
 
 The next day we took the D380 highway west. We stopped at Yayvantepe where a wealthy tourist couple drove us the 2 miles from the highway to Mor Gabriel, the oldest Syriac Orthodox monastery in the world. They laughed and joked with us. The man had wrap-around sunglasses and drove with one arm dangling out the window. His partner had dyed-blonde hair and the shortest skirt I'd seen in 500 kilometers.
 
-![Pictures from the waiting room in Mor Gabriell]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/mor_gabriel_pics_pic.png)
+![Pictures from the waiting room in Mor Gabriel]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/popes_in_mor_gabriel.jpg)
 
 We explored the monastery, snapping pictures of the fortifications, catacombs, and expansive view of the encircling landscape. There were a few other visitors milling about, all Turkish, and at some point our foreignness became obvious to the monastery's staff. A man invited us to a small private waiting room where he summoned a boy to serve us tea. The walls were covered with framed photographs of Syriac artifacts, calligraphy, and monks. We sat in stiff-backed wooden chairs and talked about Syriac Christian culture and the strained relationship between Assyrians and their Turkish neighbors.
 
@@ -160,18 +171,14 @@ The Nazis were fine, I guess, and dropped us off in Hasankeyf.
 
 I can't remember approaching the valley because I never knew that it would be something worth appreciating. But I remember the little cafes scattered along the river. The bridges crossing it, some standing strong and others in ruins. There were small buildings honeycombed on a giant pillar of rock, a tower perched on top of it. Minarets poked out of the town, a mixture of ruins and contemporary construction.
 
-![Hasankeyf landscape]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/hasankeyf_scenery.png)
+![Hasankeyf panorama]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/hasankeyf_panorama.jpg)
 
 In 2018, the Turkish air force destroyed [Ain Dara]([https://en.wikipedia.org/wiki/Ain_Dara_(archaeological_site)#Similarities_with_Solomon's_Temple](https://en.wikipedia.org/wiki/Ain_Dara_(archaeological_site)#Similarities_with_Solomon's_Temple)), a historical site with many similarities to Solomon's Temple — possibly its inspiration, or its antecedent. Unfortunately, this wouldn't be the last historical site destroyed by the Turkish state. In an attempt to "modernize" Kurdistan, Hasankeyf would have to be sacrificed: submerged by a new hydroelectric project.
 
-I can't help thinking that my ride with the Gray Wolves was some kind of prelude to the disaster that would overtake the valley: such an obvious statement of invasion and occupation. But in this part of the world, conquest is cliché — the Turks first invaded Anatolia a thousand years ago, using horse archery tactics learned from the Huns to crush the decaying Byzantine Empire. Before them it was the Arabs, the Greeks, the Persians, the Hittites... Eventually European powers swept over the land - unseating the Ottoman viziers, then the Americans bumbled onto the scene, destroying civil institutions that would directly lead to the rise of ISIS... but also the birth of Rojava.
+I can't help thinking that my ride with the Gray Wolves was some kind of prelude to the disaster that would overtake the valley: such an obvious statement of invasion and occupation. But in this part of the world, conquest is cliché — the Turks first invaded Anatolia a thousand years ago, using horse archery tactics learned from the Huns to crush the decaying Byzantine Empire. Before them it was the Arabs, the Greeks, the Persians, the Hittites... Eventually European powers swept over the land - unseating the Ottoman viziers, then the Americans bumbled onto the scene, destroying civil institutions that would directly lead to the rise of ISIS...
 
 The past really weighs down on me sometimes. I can see the outlines of these huge historical forces, the marks they leave on the Earth, the ruins, and I think of the place I have in all this chaos. I wonder if it's meaningless — there will be some new invaders, some new victims, and the cycle will go on. Or maybe the utopians are right — you can wipe the slate clean and have a fresh beginning, grind the temples to dust. I don't know the answer. But I'm glad I mixed myself up in Kurdistan instead of letting the sand pass through my fingers.
 
 Thanks.
 
-![Cameron Smith near a roadsign in Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/derppng)
-
-<!-- 
-REVIEW OLD PICTURES!!! - Zakho to Hasankeyf???
--->
+![Cameron Smith near a roadsign in Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/signs_while_hitching.png)
