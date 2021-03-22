@@ -159,6 +159,9 @@ We walked most of the way down to the highway. The road sunk into a thick pine f
 
 This is where my notes start to fail. If you're reading a historical text — something Greek, Babylonian — you'll encounter these gaps called lacunae where the text has been damaged. Sometimes these lacunae get filled in when another copy of the text is found, but just as often the holes are so large that translators just have to guess — or leave the guessing up to the reader. 
 
+![Somewhere in Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/somewhere_in_iraq.jpg)
+
+
 At some point we were picked up by a van full of young men. They joked around and offered us cigarettes and alcohol, which we refused. The driver slammed the gas pedal to swerve between cars and trucks, barking laughs and screams, flicking cigarettes onto the asphalt. He turned fully around, one hand still gripping the steering wheel, foot flat on the gas pedal, to slap me on the arm and say "America, great!"
 
 At some point one of the guys in the back told us that they were members of the Gray Wolves. They showed off their uniforms and suggested that there might be firearms in the trunk. They demonstrated their organization's salute — a hand gesture that resembles the "silent coyote" that Americans learn in Elementary School.
