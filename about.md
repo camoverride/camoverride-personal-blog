@@ -9,6 +9,8 @@ I've written about some of my hobbies: traveling, languages, and food - mostly f
 
 If you'd like to get in touch, send me a message on [instagram](https://www.instagram.com/camoverride/) or shoot me an email: <a href="mailto:someone@yoursite.com">camoverride@gmail.com</a>. I respond to _almost_ all the messages I get.
 
+Feel free to stalk my reading on [Goodreads](https://www.goodreads.com/user/show/59411167-cameron-smith).
+
 <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">Subscribe</a>
 
 ##### Cameron Smith
