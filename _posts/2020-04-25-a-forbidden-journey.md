@@ -51,7 +51,7 @@ We drive East to Nejran. We try to get gas. Two teenagers in a beaten-up pickup 
 
 *Thanks!*
 
-Eason asks them how to get gas. The red/green distinction is clarified: red is diesel, green is petrol. We're at the wrong station. The kids wish us good luck; the less-English-fluent passenger says *I love you* as they depart - I'm not certain how much of that statement was lost in translation, but what's wrong with falling in love with a stranger? - we've all been there.
+Eason asks them how to get gas. The red/green distinction is clarified: red is diesel, green is petrol. We're at the wrong station. The kids wish us good luck; the less-English-fluent passenger says *I love you* as they depart - I'm not certain how much of that statement was lost in translation, but what's wrong with falling in love with a stranger? 💖 - we've all been there.
 
 All businesses shut down during the five daily calls to prayer. We have only three minutes to get to a green station before the noon prayer. We don't make it. Crackly loudspeakers come alive. I hear the muezzin calling from a nearby minaret, beckoning the faithful to visit the nearest mosque.
 

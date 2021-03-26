@@ -6,7 +6,7 @@ comments: true
 published: false
 ---
 
-Walden. Fuck the wilderness - im a city boy
+Walden. Fuck the wilderness - im in the city
 
 
 

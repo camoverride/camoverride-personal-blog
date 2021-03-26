@@ -161,16 +161,15 @@ This is where my notes start to fail. If you're reading a historical text — so
 
 ![Somewhere in Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/somewhere_in_iraq.jpg)
 
-
 At some point we were picked up by a van full of young men. They joked around and offered us cigarettes and alcohol, which we refused. The driver slammed the gas pedal to swerve between cars and trucks, barking laughs and screams, flicking cigarettes onto the asphalt. He turned fully around, one hand still gripping the steering wheel, foot flat on the gas pedal, to slap me on the arm and say "America, great!"
 
 At some point one of the guys in the back told us that they were members of the Gray Wolves. They showed off their uniforms and suggested that there might be firearms in the trunk. They demonstrated their organization's salute — a hand gesture that resembles the "silent coyote" that Americans learn in Elementary School.
 
-The Gray Wolves are a Neo-Fascist paramilitary group, part of the Turkish "deep state" that's responsible for systematically oppressing and murdering Armenians, Greeks, and non-Muslims. In 1978, Gray Wolf militants [killed almost 200 Alevi Kurds]([https://en.wikipedia.org/wiki/Maraş_massacre](https://en.wikipedia.org/wiki/Mara%C5%9F_massacre)) in the city of Kahramanmaraş. During the war between the Kurdish PKK and the Turkey, the Gray Wolves have been the main instrument of Turkish state violence: responsible for the torture, murder, and forced disappearances of civilians across Kurdistan.
+The Gray Wolves are a Neo-Fascist paramilitary group, part of the Turkish "deep state" that's responsible for systematically oppressing and murdering Armenians, Greeks, and non-Muslims. In 1978, Gray Wolf militants [massacred almost 200 Alevi Kurds]([https://en.wikipedia.org/wiki/Maraş_massacre](https://en.wikipedia.org/wiki/Mara%C5%9F_massacre)) in the city of Kahramanmaraş. During the war between the Kurdish PKK and the Turkey, the Gray Wolves have been the main instrument of Turkish state violence: responsible for the torture, murder, and forced disappearances of civilians across Kurdistan.
 
 There are lots of far-right groups in the world — even more after four years of Trump — but few of them approach actual fascism. The Gray Wolves, however, easily qualify: A Turkish-supremacist ideology, a willingness to murder ethnic minorities, a disdain for liberalism and democracy, and an enthusiasm for genocide...
 
-The Nazis were fine, I guess, and dropped us off in Hasankeyf.
+The Grey Wolves I met didn't seem like terrible people at first, but, you know, they were. They dropped us off in Hasankeyf.
 
 I can't remember approaching the valley because I never knew that it would be something worth appreciating. But I remember the little cafes scattered along the river. The bridges crossing it, some standing strong and others in ruins. There were small buildings honeycombed on a giant pillar of rock, a tower perched on top of it. Minarets poked out of the town, a mixture of ruins and contemporary construction.
 
