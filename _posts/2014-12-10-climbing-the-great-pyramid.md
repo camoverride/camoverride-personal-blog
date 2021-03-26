@@ -47,6 +47,8 @@ When the bus jitters to a halt and you shove your way through the crowds of scam
 
 For Eason and me, it didn't really matter. It's important not to be too introspective when breaking the law. We weren't approaching the Giza Plateau as tourists. We'd come with a specific goal in mind: sneak inside the plateau, wait until night time, and climb to the top of Khufu's Great Pyramid.
 
+![The corner of Khufu's pyramid that we would later climb]({{ site.url }}/assets/images/2014-12-10-climbing-the-great-pyramid/pyramid_close_up.jpg)
+
 As perpetually underprepared travelers, we needed to wander through Giza to find the supplies necessary for our ascent. Our quest for food, water, and cardboard gave us the opportunity to scope out the fence that separated the Giza Plateau from the city of Giza.
 
 The fence was about ten meters high. The bottom half was concrete and the upper half chain-link topped with an extra dash of barbed-wire. The fence was adjacent to a slum, so we figured that there had to be some sort of hole drilled in it. However, after an hour of trudging through the slum, we came to the conclusion that the wall was impenetrable.
@@ -114,3 +116,5 @@ A few days later I was suffering from a head cold in Thessaloniki, a large city 
 When he learned that we'd come from Egypt he told us that the Rosetta Stone was written in three languages: Egyptian, demotic, and Macedonian, "a Slavic language" he asserted with a smile. Macedonians, we'd soon learn, were very proud of their history, even if a lot of it was made-up: Alexander the Great was a Macedonian Greek, not a Slav - the latter group borrowed the name but are later arrivals in the region. And as for the Rosetta Stone, it's only written in two languages: Ancient Egyptian and Ancient Greek, although the former is repeated in two different scripts: hieroglyphic and demotic.
 
 As I started arguing with my new friend about the linguistics of the Rosetta Stone, the liquor hit me in a warm wave, and I realized __I never saw the sphinx__. We'd skipped it entirely in our rush to find a hiding place. I'd never gotten to see the mysterious face - probably Khafre's, who was buried in the second-tallest Giza pyramid - the face with the curiously vacant stare, like the Mona Lisa, the face that watches over aeons. I never had a chance to look at the [Dream Stele](https://en.wikipedia.org/wiki/Dream_Stele), which rests between the Sphinx's paws. This stele recounts the story of Thutmose who is promised _the White Crown, the Red Crown, and soverignty over Egypt_... if only he clears the sand that's covering the mighty body of the Sphinx. And like Thutmose's dream, I feel the warm sand covering my body, and drift off to sleep...
+
+![Drawing of a pyramid climber on cardboard]({{ site.url }}/assets/images/2014-12-10-climbing-the-great-pyramid/pyramid_climbing_art.jpg)
