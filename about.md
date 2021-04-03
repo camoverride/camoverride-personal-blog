@@ -11,6 +11,8 @@ If you'd like to get in touch, send me a message on [instagram](https://www.inst
 
 Feel free to stalk my books on [Goodreads](https://www.goodreads.com/user/show/59411167-cameron-smith) 📚
 
+Also, check out [my professional blog](https://camtsmith.com/)
+
 <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">Subscribe</a>
 
 ##### Cameron Smith
