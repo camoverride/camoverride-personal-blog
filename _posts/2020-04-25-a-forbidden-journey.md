@@ -19,7 +19,7 @@ Over the last two centuries things have calmed down a bit: there are more fast f
 <p style="text-align:center">There is no god but God</p>
 <p style="text-align:center">Muhammad is the prophet of God</p>
 
-<p style="text-align:center">(The _shahada_, the Muslim declaration of faith)</p>
+<p style="text-align:center">(The shahada, the Muslim declaration of faith)</p>
 
 Preface: Lisbon really isn't my vibe. It's an old European city - cold, dark, dreary, overcast - packed to the brim with those poorly-lit antique stores that cater exclusively to tourist. The places that aren't dusty and embalmed are waaaaaay too in your face: night clubs, boutique shops, luxury brands, *haute cuisine*, bars overflowing with drunk teenagers, tracksuit kids puking in alleyways.
 
