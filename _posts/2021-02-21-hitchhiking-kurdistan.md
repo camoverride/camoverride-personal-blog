@@ -57,7 +57,7 @@ In a convenience store in Tasluja I stared at a TV resting atop a tower of straw
 
 ![hitchhiking in a truck heading out of Slemani]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/truck_hitchhiking.gif)
 
-We jumped in another car and headed North. Halfway between Tasluja and Dokan is the tomb of the Median Kind Cyaxares in a place called Qyzqapan. Cyaxares' forces clashed with the Lydians in the battle of Halys. During the battle, an eclipse occurred, turning day into night. Interpreting this as an omen, both sides agreed to stop the bloodshed. Because it occurred during [The Eclipse of Thales](https://en.wikipedia.org/wiki/Eclipse_of_Thales), this battle is the oldest historical event that is known to the exact day (May 28th, 585 BC).
+We jumped in another car and headed North. Halfway between Tasluja and Dokan is the tomb of the Median King Cyaxares in a place called Qyzqapan. Cyaxares' forces clashed with the Lydians in the battle of Halys. During the battle, an eclipse occurred, turning day into night. Interpreting this as an omen, both sides agreed to stop the bloodshed. Because it occurred during [The Eclipse of Thales](https://en.wikipedia.org/wiki/Eclipse_of_Thales), this battle is the oldest historical event that is known to the exact day (May 28th, 585 BC).
 
 The tomb itself is half-way up a sheer cliff face, which makes you wonder how it was ever carved in the first place — though the metal scaffolding that lets you climb up to it suggests that an ancient wooden scaffolding once existed here. From the top of the raised platform you can see miles and miles of rolling brown hills, the jagged marks of dirt roads, and a few flocks of sheep being chased by their shepherds.
 
@@ -65,7 +65,7 @@ The tomb is flanked by primitive-looking Ionian columns, which predate any Ionia
 
 ![The heavily vandalized tomb of the Median king Cyaxares]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/tomb_of_cyaxares.png)
 
-The road to Qyzqapan is narrow and almost completely untraveled. We were lucky enough to get a ride almost all the way there, and only had to walk about a half hour. We were equally lucky on the way back, when Hiwa, a Kurdish man from the UK who was home visiting family, gave us a ride. He took us to see some of the local tourist attractions: a lush valley packed with shrines, a panoramic pull-out on the side of the highway, and a few stops to introduce us to cousins. He insisted that we have lunch at his home.
+The road to Qyzqapan is narrow and almost completely untraveled. We were lucky enough to get a ride almost all the way there, and only had to walk about a half hour. We were equally lucky on the way back, when Hiwa, a Kurdish man from the UK who was home visiting family, gave us a ride. He took us to see some of the local tourist attractions: a lush valley packed with shrines, a panoramic pull-out on the side of the highway, and some stops to visit cousins. He insisted that we have lunch at his home.
 
 We were driven into a remote hamlet deep in the hills and chauffeured through trellises draped in grape vines to the family home. We met Hiwa's father, who sat crossed-legged next to us on the floor and joined us for tea as the meal was prepared.
 
@@ -73,13 +73,13 @@ We were driven into a remote hamlet deep in the hills and chauffeured through tr
 
 A plastic sheet was spread out on the carpet, then dishes overflowing with rice, tomatoes, peppers, green onions, kebabs, cucumbers, feta cheese, olives, flatbread, clear soup, and yogurt. My favorite Kurdish food — _yaprax_ (vegetarian cabbage wraps that resemble dolmas) — were part of the spread, and the family found it funny that I was able to devour so many.
 
-After a couple of hours enjoying a Kurdish lunch, Hiwa whisked us back to the highway where we caught another car heading towards Dokan and Erbil. At some point I'd stop and run down to the Little Zab river and put my feet in the water. This river flows south east and empties into the Tigris, cutting a path halfway between Kirkuk and Erbil.
+After a couple of hours enjoying a Kurdish lunch, Hiwa whisked us back to the highway where we caught another car heading towards Dokan and Erbil. At some point I'd stop and run down to the Little Zab river and put my feet in the water. This river flows south east and empties into the Tigris, marking the halfway point between Kirkuk and Erbil.
 
 ![Lunch with Hiwa's family in a small hamlet in Iraqi Kurdistan]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/food_with_locals_in_kurdistan.jpg)
 
 ## The Peacock Angel
 
-Erbil is to Slemani as New York is to San Francisco: buildings that are bigger, taller, denser - an atmosphere that's more authoritarian, traditional, and chaotic, but also more diverse, faster paced, bigger. On the way into the city I remember driving past rows and rows of soldiers flanking the highway, standing rigidly in formation, rifles over their soldiers, facing the traffic. I remember the armored personnel carriers parked at intersections, soldiers camped out in the shade of tarps draped over tank guns. Downtown there were men in suits everywhere, scurrying between their cramped and sweaty apartments and office buildings, mingling with soldiers and the merchants, thick and diverse crowds.
+Erbil is to Slemani as New York is to San Francisco: buildings that are bigger, taller, denser - an atmosphere that's more authoritarian, traditional, and chaotic, but also more diverse, faster paced, bigger. On the drive into Erbil I remember speeding past rows and rows of soldiers flanking the highway, standing rigidly in formation, rifles over their soldiers, facing the traffic. I remember the armored personnel carriers parked at intersections, soldiers camped out in the shade of tarps draped over tank guns. Downtown there were men in suits everywhere, scurrying between their cramped and sweaty apartments and office buildings, mingling with soldiers and the merchants, thick and diverse crowds.
 
 ![Guy guarding a residential compound in Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/guard_with_ak_47.gif)
 
@@ -91,19 +91,19 @@ We hitchhiked the backroads, crossing the Great Zab River where I took another d
 
 ![The Zab river in Iraqi Kurdistan]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/zab_river.jpg)
 
-It was getting dark so we decided to overshoot Lalish and spend the night in Duhok, a medium-sized city flooded with Christian and Yazidi refugees who had fled the onslaught of the Islamic States. As non-Muslims, these groups were vulnerable to persecution by ISIS - especially Yazidis, who aren't *people of the book* (followers of Abrahamic religions who are fellow monotheists) and are frequently referred to as 'devil worshippers' by their neighbors.
+It was getting dark so we decided to overshoot Lalish and spend the night in Duhok, a medium-sized city flooded with Christian and Yazidi refugees who had fled the onslaught of the Islamic States. As non-Muslims, these groups were vulnerable to persecution by ISIS - especially Yazidis, who aren't *people of the book* (followers of Abrahamic religions who are fellow monotheists) and are frequently referred to as 'devil worshippers' by their neighbors. This is possibly the result of an unfortunate linguistic coincidence: a dubious connection between the pronunciation of the Yezidi deity _Tawsi Melek_ and _shaitan_ (satan).
 
 The next morning we decided to cheat and hire a taxi to drive us to Lalish. We weren't sure what reception we would have and wanted the legitimacy of a paid-ride. Our driver, a Muslim, was nervous about the prospect of bringing us into a den of devil-worshippers, but agreed and became as enthusiastic about the road trip as we were.
 
 ![The taxi ride to Lalish]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/taxi_to_lalish.gif)
 
-On the way to Lalish I saw a column of black smoke pouring up from the horizon. As we approached I noticed the smoke stack - a huge belching oil refinery. Not long after the car broke down, and Eason and our driver spent a half an hour replacing the gas pump. Our driver brought us into the narrow meandering valley of Lalish and dropped us off in a mostly empty parking lot. He told us he'd come back and pick us up in a couple hours.
+On the way to Lalish I saw a column of black smoke pouring up from the horizon. As we approached I noticed the smoke stack of a huge oil refinery. Not long after that the car broke down. Eason and our driver spent a half an hour replacing the gas pump. Our driver brought us into the narrow meandering valley of Lalish and dropped us off in a mostly empty parking lot. He told us he'd come back and pick us up in a couple hours.
 
 ![Our car broke down on the way to Lalish]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/car_broke_down_lalish.jpg)
 
 Yazidis believe that god created the world by casting a white pearl into the cosmic ocean. As it sunk into the depths, the pearl shattered, becoming the substance from which the material universe would be formed. To assist in his work, god created the Peacock Angel, Tawsi Melek. Six more angels were fashioned by god to assist Tawsi Melek, greatest of the angels, in his creation of the world.
 
-After the earth was created it began shaking uncontrollably. Tawsi Melek descended from heaven in the form of a peacock and stopped the shaking. He then transferred the rainbow colors of his plumage to the earth, filling it with flora and fauna. The place that Tawsi Melek descended to is Lalish.
+After the earth was created it began shaking uncontrollably. Tawsi Melek descended from heaven in the form of a peacock and stopped the shaking. He then transferred the rainbow colors of his plumage to the earth, filling it with flora and fauna. The place that Tawsi Melek descended is Lalish.
 
 ![The valley of Lalish, full of weird spire buildings]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/lalish_scenery.jpg)
 
@@ -115,7 +115,7 @@ To the right of the tomb's arched entrance is a large black snake cast out of me
 
 ![carving of kissing animals]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/lalish_kissing_animals.png)
 
-I was fascinated by the proliferation of weird and abstract animal shapes carved into rocks scattered around Lalish. I asked the locals about the meanings of the symbols. While some have obvious meanings, many were more mysterious.
+I was fascinated by the proliferation of weird and abstract animal shapes carved into rocks scattered around Lalish. I asked the locals about the meanings of the symbols. While some have obvious meanings, others were more mysterious.
 
 After spending half a day in Lalish, we drove back to Duhok, gave our driver a fat tip (we'd be in Turkey soon where our Iraqi dinars would be worthless), and collapsed from exhaustion.
 
@@ -133,7 +133,7 @@ In the same way that the Kurdish people are divided into different language grou
 
 ![Map of the Kurdish languages. Source: Wikipedia]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/kurdish_languages_map.png)
 
-Zakho was our last stop before Turkey. Sketchy like every other border town. Very bad vibes. Conflicting sources of information about the border — we have to walk across. We have to take a taxi. We should register with the militia before leaving — no, after we reach the Turkish side. Hitchhiking will be OK. Hitchhiking will get us arrested. Whatever.
+Zakho was our last stop before Turkey. Sketchy like every border town is sketchy. Very bad vibes. Conflicting sources of information about the border — we have to walk across. We have to take a taxi. We should register with the militia before leaving — no, after we reach the Turkish side. Hitchhiking will be OK. Hitchhiking will get us arrested. Whatever.
 
 Somehow we made it to Turkey. We passed through Silopi: truly hellish. A diaphanous veil of smog hung over the city. The highway had large gravely margins where truckers had pulled off the road to smoke cigarettes, eat kebabs, drink tea. A man materialized out of the haze and offered us a ride.
 
@@ -143,11 +143,11 @@ Just before Cizre the highway arched towards the Tigris. Just a few meters away 
 
 We arrived late at night in Cizre. I remember the dusty plastic fruits hanging from the balustrade of our cheap hotel. There was a two-inch gap beneath our room's door that let flies in.
 
-The next day we took the D380 highway west. We stopped at Yayvantepe where a wealthy tourist couple drove us the 2 miles from the highway to Mor Gabriel, the oldest Syriac Orthodox monastery in the world. They laughed and joked with us. The man had wrap-around sunglasses and drove with one arm dangling out the window. His partner had dyed-blonde hair and the shortest skirt I'd seen in 500 kilometers.
+The next day we took the D380 highway west. We stopped at Yayvantepe where a wealthy tourist couple drove us the 2 miles from the highway to Mor Gabriel, the oldest Syriac Orthodox monastery in the world. They laughed and joked with us. The man had wrap-around sunglasses and drove with one arm dangling out the window. His partner had dyed-blonde hair and the shortest skirt I'd seen in weeks.
 
 ![Pictures from the waiting room in Mor Gabriel]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/popes_in_mor_gabriel.jpg)
 
-We explored the monastery, snapping pictures of the fortifications, catacombs, and expansive view of the encircling landscape. There were a few other visitors milling about, all Turkish, and at some point our foreignness became obvious to the monastery's staff. A man invited us to a small private waiting room where he summoned a boy to serve us tea. The walls were covered with framed photographs of Syriac artifacts, calligraphy, and monks. We sat in stiff-backed wooden chairs and talked about Syriac Christian culture and the strained relationship between Assyrians and their Turkish neighbors.
+We explored the monastery, snapping pictures of the fortifications, catacombs, and the expansive view of the encircling landscape. There were a few other visitors milling about, all Turkish, and at some point our foreignness became obvious to the monastery's staff. A man invited us to a small private waiting room where he summoned a boy to serve us tea. The walls were covered with framed photographs of Syriac artifacts, calligraphy, and monks. We sat in stiff-backed wooden chairs and talked about Syriac Christian culture and the strained relationship between Assyrians and their Turkish neighbors.
 
 The man was the secretary of [Mor Timotheos Samuel Aktas](http://www.syriacchristianity.info/bio/SyriacOrthodox/bio_TimotheosAktas.htm), archbishop of the Tur Abdin diocese. After an enthusiastic exposition of the Syriac alphabet and its origins in ancient Phoenicia, we were introduced to the archbishop himself — on the spectrum from holy man to wizard, we was firmly on the wizard side.
 
@@ -157,11 +157,11 @@ We walked most of the way down to the highway. The road sunk into a thick pine f
 
 ## Hasankeyf and Home
 
-This is where my notes start to fail. If you're reading a historical text — something Greek, Babylonian — you'll encounter these gaps called lacunae where the text has been damaged. Sometimes these lacunae get filled in when another copy of the text is found, but just as often the holes are so large that translators just have to guess — or leave the guessing up to the reader. 
+This is where my notes start to fail. If you're reading a historical text — something Greek, Babylonian — you'll encounter these gaps called lacunae where the text has been damaged. Sometimes these lacunae get filled in when another copy of the text is found, but just as often the holes are so large that translators have to guess — or leave the guessing up to the reader. 
 
 ![Somewhere in Iraq]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/somewhere_in_iraq.jpg)
 
-At some point we were picked up by a van full of young men. They joked around and offered us cigarettes and alcohol, which we refused. The driver slammed the gas pedal to swerve between cars and trucks, barking laughs and screams, flicking cigarettes onto the asphalt. He turned fully around, one hand still gripping the steering wheel, foot flat on the gas pedal, to slap me on the arm and say "America, great!"
+At some point we were picked up by a van full of young men. They joked around and offered us cigarettes and alcohol, which we refused. The driver slammed the gas pedal to swerve between cars and trucks, barking out laughs and screams, flicking cigarettes onto the asphalt. He turned fully around, one hand still gripping the steering wheel, foot flat on the gas pedal, to slap me on the arm and say "America, great!" He approached a small pickup truck, tailgating it closely and cursing under his breath. On a sharp curve he decided to overtake the car, swerving into the opposite lane before darting back in front of it.
 
 At some point one of the guys in the back told us that they were members of the Gray Wolves. They showed off their uniforms and suggested that there might be firearms in the trunk. They demonstrated their organization's salute — a hand gesture that resembles the "silent coyote" that Americans learn in Elementary School.
 
@@ -179,7 +179,7 @@ In 2018, the Turkish air force destroyed [Ain Dara]([https://en.wikipedia.org/wi
 
 I can't help thinking that my ride with the Gray Wolves was some kind of prelude to the disaster that would overtake the valley: such an obvious statement of invasion and occupation. But in this part of the world, conquest is cliché — the Turks first invaded Anatolia a thousand years ago, using horse archery tactics learned from the Huns to crush the decaying Byzantine Empire. Before them it was the Arabs, the Greeks, the Persians, the Hittites... Eventually European powers swept over the land - unseating the Ottoman viziers, then the Americans bumbled onto the scene, destroying civil institutions that would directly lead to the rise of ISIS...
 
-The past really weighs down on me sometimes. I can see the outlines of these huge historical forces, the marks they leave on the Earth, the ruins, and I think of the place I have in all this chaos. I wonder if it's meaningless — there will be some new invaders, some new victims, and the cycle will go on. Or maybe the utopians are right — you can wipe the slate clean and have a fresh beginning, grind the temples to dust. I don't know the answer. But I'm glad I mixed myself up in Kurdistan instead of letting the sand pass through my fingers.
+The past really weighs down on me sometimes. I can see the outlines of these huge historical forces, the marks they leave on the Earth, the ruins, and I think of __my place__in all this chaos. I wonder if it's meaningless — there will be some new invaders, some new victims, and the cycle will go on. Or maybe the utopians are right — you can wipe the slate clean and have a fresh beginning, grind the temples to dust and build them back up. I don't know the answer. But I'm glad I mixed myself up in Kurdistan instead of letting the sand pass through my fingers.
 
 Thanks.
 
