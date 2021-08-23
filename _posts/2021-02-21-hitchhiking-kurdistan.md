@@ -8,19 +8,22 @@ published: true
 
 In 2016 I hitchhiked from Sulaymaniyah in Iraqi Kurdistan to the ancient town of Hasankeyf in Turkey ([map](https://goo.gl/maps/tFcn4C9X4iRtUgTz9)). Hasankeyf now rests on the bottom of a lake - submerged in 2020 after the completion of the Ilısu dam. When I first jotted down the notes that would become this story I never imagined that the ancient valley full of austere minarets, [Turkman bridges](https://en.wikipedia.org/wiki/Old_Bridge,_Hasankeyf), crumbling caravanserai's, and stone houses stacked one on top of another would be wiped from the face of the earth.
 
-But maybe it makes more sense than that - as I try to recall the memories and stitch these notes together, I realize that some parts are submerged. I went through all the pictures on my phone, the text messages I sent, and the things I jotted down in my notebook and on scraps of paper in order to assemble this narrative - but there are still some holes in the story: When did I learn about Lalish and the peacock angel? How did I get to the Zab river, my feet in its freezing water? Maybe I'll never get all the details straight or in the right order, but I'll start with the first thing that comes to mind - the war:
+Kurdistan is an ancient place. Hasankeyf wasn't the greatest city to be lost to time, only the most recent. The forces of migration, economics, and conquest have have added layer upon layer to this region of the world - one layer crushing down the next, imperfectly erasing it, again and again. Which brings me to the war:
 
 ![video of peshmerga soldiers fighting ISIS. Source: [https://www.youtube.com/watch?v=jwzbdm5QMmw&t=01m25s](https://www.youtube.com/watch?v=jwzbdm5QMmw&t=01m25s)]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/peshmerga_vs_isis_15s.gif)
 
 [The Islamic State of Iraq and the Levant](https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant) (ISIL or ISIS) was born in the deserts of Western Iraq, where fighters driving [technicals](https://en.wikipedia.org/wiki/Technical_(vehicle)) overran cities and proclaimed a new caliphate. ISIS militants massacred Shia's, [Yazidi's](https://en.wikipedia.org/wiki/Sinjar_massacre), and any Sunni Muslims they viewed as heretics. The Islamic State quickly metastisized, following the path of the Euphrates all the way to the gates of Baghdad in the East while also threatening Damascus in the West. This part of the world had been torn apart by the Syrian and Iraqi civil wars - cities depopulated, factories abandoned, fields of bones, the desert reclaiming farms, sand washing over highways... This region had barely begun to recover before being overwhelmed by a new enemy.
 
-In the East, Syrian forces with Russian military support managed to keep ISIS away from the densely populated Mediterranean coast, even as it gobbled up a third of the nation. In the North, the world watched as Kurdish forces in Rojava repelled the Islamic State during a protracted siege - the Stalingrad of the Syrian Civil War - even though later the Turks would betray their erstwhile allies as the city was bargained off to Assad and Putin. Out of the chaos a new proto-state, Rojava, would be born - an experiment in libertarian socialism in the Kurdish heartland.
+In the East, Syrian forces with Russian military support managed to keep ISIS away from the densely populated Mediterranean coast even as it gobbled up a third of the nation. In the North, the world watched as Kurdish forces in Rojava repelled the Islamic State during a protracted siege - the Stalingrad of the Syrian Civil War - even though later the Turks would betray their erstwhile allies as the city was bargained off to Assad and Putin. Out of the chaos a new proto-state, Rojava, would be born - an experiment in libertarian socialism in the Kurdish heartland.
 
 While this was happening in the North and East, the Islamic State was fighting American and Iraqi forces on the outskirts of Baghdad. The tide was beginning to turn in favor of the Kurds: the Kurdish security forces (_Peshmerga_) were launching [a campaign](https://en.wikipedia.org/wiki/Battle_of_Kirkuk_(2016)) to liberate Kirkuk - sometimes called "the heart of Kurdistan" - from ISIS. The TV stations had 24-hour coverage of the fight: Peshmerga soldiers rushing to the front lines, machine gun fire kicking up clouds of dust, shaky images of mortar shells obliterating neighborhoods, the bodies of heroic Kurdish martyrs being pulled from the rubble...
 
 ![hitchhiking in a car in Iraqi Kurdistan]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/car_hitchhiking.gif)
 
-I decided that I needed to revisit these old notes in order to take account of everything I experienced in this chaotic part of the world - to attach myself to history instead of letting it pass by. Without some kind of narrative, these memories are just disconnected fragments that can whither away and melt like icicles in the sun. The war is the backdrop, the setting, and I was lucky enough to only experience it indirectly - but I'm still entangled. Where I enter the story is at Sulaymaniyeh International Airport in Iraqi Kurdistan.
+I decided that I needed to revisit these old notes in order to take account of everything I experienced in this chaotic part of the world - to attach myself to history instead of letting it pass by. Without some kind of narrative these memories are just disconnected fragments that can whither away and melt like icicles in the sun. The war is the backdrop, the setting, and I was lucky enough to only experience it indirectly - but I'm still entangled. This article recounts my experience hitchhiking across northern Iraq in 2016 and can act as a guide for anyone else who wants to explore this region.
+
+Where I enter the story is at Sulaymaniyeh International Airport in Iraqi Kurdistan...
+
 
 ## Slemani
 
@@ -77,6 +80,7 @@ After a couple of hours enjoying a Kurdish lunch, Hiwa whisked us back to the hi
 
 ![Lunch with Hiwa's family in a small hamlet in Iraqi Kurdistan]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/food_with_locals_in_kurdistan.jpg)
 
+
 ## The Peacock Angel
 
 Erbil is to Slemani as New York is to San Francisco: buildings that are bigger, taller, denser - an atmosphere that's more authoritarian, traditional, and chaotic, but also more diverse, faster paced, bigger. On the drive into Erbil I remember speeding past rows and rows of soldiers flanking the highway, standing rigidly in formation, rifles over their soldiers, facing the traffic. I remember the armored personnel carriers parked at intersections, soldiers camped out in the shade of tarps draped over tank guns. Downtown there were men in suits everywhere, scurrying between their cramped and sweaty apartments and office buildings, mingling with soldiers and the merchants, thick and diverse crowds.
@@ -121,6 +125,7 @@ After spending half a day in Lalish, we drove back to Duhok, gave our driver a f
 
 ![yezidi censer in Lalish]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/lalish_censer.png)
 
+
 ## Duhok to Mor Gabriel
 
 We set out for Turkey the next morning. A curtain of dust, smog, danced on the peripheries of the highway. I visualized a giant mouth exhaling smoke, sucking us in. Roadblocks were more common here. When we passed one, the local militias would ask us to step out of the car while they investigated. Walkie talkie. Usually they had no idea what to make of us — two tall, thin, beardless Americans — software engineers from San Francisco — obviously not part of ISIS — not spies — but tourists? — No way.
@@ -154,6 +159,7 @@ The man was the secretary of [Mor Timotheos Samuel Aktas](http://www.syriacchris
 ![Timotheos Aktas in Mor Gabriel]({{ site.url }}/assets/images/2021-02-21-hitchhiking-kurdistan/mor_gabriel_pope.png)
 
 We walked most of the way down to the highway. The road sunk into a thick pine forest. Birds darted back and forth between branches. A driver picked us up and took us north.
+
 
 ## Hasankeyf and Home
 
