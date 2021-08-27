@@ -19,7 +19,7 @@ We pulled out our laptops and did some research. Snow was drifting past our room
 
 We learned that there are three large pyramids at Giza and several smaller ones: the Pyramid of Khafre still has its exterior casing stones intact near the top, giving it a frosted mountain-top appearance. The Pyramid of Menkaure is the smallest of the three. The largest is the Pyramid of Khufu - the _Great_ Pyramid - in the northern part of the Giza plateau. That's the one we wanted to climb.
 
-Details were still scarce. There were suggestions of a dedicated pyramid-climbing community; hints that appeared on blog posts like _climbers from Finland visit every year_. Tracking down this secret brotherhood proved challenging. _Climbers are often asked to pay bribes._ There was the tantalizing mention of a hotel where Japanese climbers congregated. In this hotel was supposed to be a book where travelers left their stories... We decided to give it a shot.
+Details were still scarce. There were suggestions of a dedicated pyramid-climbing community; hints that appeared on blog posts like _climbers from Finland visit every year_. Tracking down this secret brotherhood proved challenging. _Climbers are often asked to pay bribes._ There was the tantalizing mention of a hotel where Japanese climbers congregated. In this hotel was supposed to be a __book__ where travelers left their stories... We decided to give it a shot.
 
 ##### The Riddle of the Sphinx
 ##### Q: What goes on four feet in the morning, two feet at noon, and three feet in the evening?
@@ -32,7 +32,7 @@ The city was confusing. We walked in circles until we finally found the hotel. I
 
 The manager was friendly, still young enough to have acne. On the wall behind the reception desk was an enormous bookshelf. It stretched all the way to the other end of the room. As Eason checked in I began examining the shelves. Manga. Shelves and shelves of manga comic books. Some of it was in Arabic, but it was mostly Japanese. I asked the manager if he spoke Japanese and he said that he was still learning - it became clear that he had an obsession with Japanese cartoons.
 
-I searched the entire bookshelf but couldn't find what I was looking for - no journals, nothing handwritten, hardling anything except yellowing comic books. I debated asking the manager directly if there was a pyramid-climbing book, but decided against it. Instead I retreated to the room to sleep.
+I searched the entire bookshelf but couldn't find what I was looking for - no journals, nothing handwritten, hardly anything except yellowing comic books. I debated asking the manager directly if there was a pyramid-climbing book, but decided against it. Instead I retreated to the room to sleep.
 
 The private room we'd booked turned out to be less than private - the walls didn't reach all the way to the ceiling - it felt more like a bathroom stall than a hotel room. Mosquitos poured over the divider, so I bundled myself up under all my jackets. I told Eason about my failure to find the book and he forgave me. We caught a few hours of sleep before setting out the next morning.
 
@@ -43,7 +43,7 @@ Even though it's two kilometers away, the Great Pyramid is the biggest thing on 
 
 We took the bus through Giza. There were surprisingly few scammers of any kind - the tourists were keeping away because of the recent coup d'etat. I felt strangely anonymous - I'd expected children selling trinkets, "discount" tickets, old men with suspiciously cheap watches... but there was none of that.
 
-When the bus jitters to a halt and you shove your way through the crowds of scammers, you're forced to wrestle with some uncomfortable thoughts. Is this the world's oldest megastructure, a testament to the creativity and power of human civilization? Or is this the world's oldest tourist trap: a dismal, decadent, Disneyland?
+Is this the world's oldest megastructure, I wondered, a testament to the creativity and power of human civilization? Or is this the world's oldest tourist trap: a dismal, decadent, Disneyland?
 
 For Eason and me, it didn't really matter. It's important not to be too introspective when breaking the law. We weren't approaching the Giza Plateau as tourists. We'd come with a specific goal in mind: sneak inside the plateau, wait until night time, and climb to the top of Khufu's Great Pyramid.
 
