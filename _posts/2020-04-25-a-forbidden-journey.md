@@ -21,7 +21,7 @@ Over the last two centuries things have calmed down a bit: there are more fast f
 
 <p style="text-align:center">(The shahada, the Muslim declaration of faith)</p>
 
-Preface: I had a layover in Europe. Lisbon really isn't my vibe. It's an old city - cold, dark, dreary, overcast - packed to the brim with those poorly-lit antique stores that cater exclusively to tourist. The places that aren't dusty and embalmed are waaaaaay too in your face: night clubs, boutique shops, luxury brands, _haute cuisine_, bars overflowing with drunk teenagers, tracksuit kids puking in alleyways.
+Preface: I had a layover in Europe. Lisbon really isn't my vibe. It's an old city - cold, dark, dreary, overcast - packed to the brim with those poorly-lit antique stores that cater exclusively to tourists. The few places that aren't dusty and embalmed are waaaaaay too in your face: night clubs, boutique shops, luxury brands, _haute cuisine_, bars overflowing with drunk teenagers, tracksuit kids puking in alleyways.
 
 Lisbon was the center of the world *500 years ago*. A feeling of decline and decadence permeates the city. Islam, on the other hand, had a rise, a fall, and is rising again... there's something about the desert that's eternal, transcendent, full of potential... Ibn Khaldun called this energy _asabiyyah_, an invigorating life force that's responsible for the rise and fall of civilizations... I can't help but think that I'm in the ruins of a dead civilization, a hollowed-out husk.
 
