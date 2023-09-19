@@ -1,6 +1,6 @@
-name: Cameron's blog
-description: writing about interesting things
-meta_description: "writing about interesting things"
+name: Cam's travel blog
+description: 
+meta_description: "cameron smith's travel blog"
 
 markdown: kramdown
 highlighter: rouge

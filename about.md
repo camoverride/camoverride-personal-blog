@@ -3,19 +3,15 @@ layout: page
 title: About me 
 ---
 
-Welcome to my blog 💖
+Welcome to my travel blog 💖
 
-I've written about some of my hobbies: traveling, languages, and food - mostly from an autobiographical perspective.
+I'm an artist, traveler, and ex-techie.
 
-If you want to hop on a short zoom call, just [schedule a meeting](https://calendly.com/camoverride/chitchat) - I talk to strangers from all over the world and enjoy it!
+[Here's](https://smith.cam/) my art website. You can also find me [on instagram](https://www.instagram.com/).
 
-Other ways to get in touch are: sending me a message on [instagram](https://www.instagram.com/camoverride/) or an email: <a href="camoverride@gmail.com">camoverride@gmail.com</a>. I respond to all the messages I get, even if you're a stranger or live on the opposite side of the world 🌎
+And [here's](camtsmith.com) my professional site.
 
-Feel free to stalk my books on [Goodreads](https://www.goodreads.com/user/show/59411167-cameron-smith) 📚
-
-Also, check out [my professional blog](https://camtsmith.com/)
-
-<a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">Subscribe</a>
+You can also send me an email if you'd like to discuss travel plans: [camoverride@gmail.com]
 
 ##### Cameron Smith
 
