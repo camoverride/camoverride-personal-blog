@@ -35,7 +35,7 @@ The only exception to the airport's clean, boring austerity are the colorful, gl
 
 Hotel: no wifi, broken heater, no hot water. Who would have thought that Saudi Arabia would be so cold? Stereotypes I've built up through years of anticipation are slowly crumbling... Is this what Bedouin life was like?
 
-I do yoga the next morning while Eason goes to pick up our car. All religions besides Islam are banned in the Kingdom – does practicing yoga violate some law? Saudi Arabia is ruled by sharia. The judgements of Islamic scholars form a body of law called _fiqh_ written in a language I don't understand by people from a culture I'm not familiar with... If this had been my first time in the Middle East I'd be concerned about violating some unknowable law - but I know from experience that Arabs are relaxed, calm, surprisingly tolerant as long as your behavior isn't theatrical or aggressive.
+I do yoga the next morning while Austin goes to pick up our car. All religions besides Islam are banned in the Kingdom – does practicing yoga violate some law? Saudi Arabia is ruled by sharia. The judgements of Islamic scholars form a body of law called _fiqh_ written in a language I don't understand by people from a culture I'm not familiar with... If this had been my first time in the Middle East I'd be concerned about violating some unknowable law - but I know from experience that Arabs are relaxed, calm, surprisingly tolerant as long as your behavior isn't theatrical or aggressive.
 
 We drive East to Nejran. We try to get gas. Two teenagers in a beaten-up pickup truck pull up next to us at the pump.
 
@@ -51,11 +51,11 @@ We drive East to Nejran. We try to get gas. Two teenagers in a beaten-up pickup 
 
 "Shuukran, thanks!"
 
-Eason asks them how to get gas. The red/green distinction is clarified: red is diesel, green is petrol. We're at the wrong station. The kids wish us good luck; the less-English-fluent passenger says _I love you_ as they depart - I'm not certain how much of that statement was lost in translation, but what's wrong with falling in love with a stranger? 💖 - we've all been there.
+Austin asks them how to get gas. The red/green distinction is clarified: red is diesel, green is petrol. We're at the wrong station. The kids wish us good luck; the less-English-fluent passenger says _I love you_ as they depart - I'm not certain how much of that statement was lost in translation, but what's wrong with falling in love with a stranger? 💖 - we've all been there.
 
 All businesses shut down during the five daily calls to prayer. We have only three minutes to get to a green station before the noon prayer. We don't make it. Crackly loudspeakers come alive. I hear the muezzin calling from a nearby minaret, beckoning the faithful to visit the nearest mosque.
 
-Eason waits in the car at the green gas station while I scramble up a scraggly escarpment to get a view of the Nejran valley. Brown, denuded hills tumble into bouldery valleys. Trees cling desperately onto the sides of sandy plateaus. I notice a goat far away chewing a mouthful of grass, and the goat turns and notices me. I sneak off behind some boulders to take a piss, painfully aware that being caught with my genitals out in Saudi Arabia is probably punishable by some kind of torture.
+Austin waits in the car at the green gas station while I scramble up a scraggly escarpment to get a view of the Nejran valley. Brown, denuded hills tumble into bouldery valleys. Trees cling desperately onto the sides of sandy plateaus. I notice a goat far away chewing a mouthful of grass, and the goat turns and notices me. I sneak off behind some boulders to take a piss, painfully aware that being caught with my genitals out in Saudi Arabia is probably punishable by some kind of torture.
 
 Prayer ends. A feeling fills the valley that's reminiscent of the fleeting calm you experience in the final _savasana_ moments of a yoga class. We fill up.
 
@@ -76,7 +76,7 @@ At the top we're confronted with a gate and a guard who refuses us entry: stern 
 
 Beautiful scenery that challenges Yosemite. Is every tall, breathtaking mountain view in the world the same? Is the experience of staring across the Saudi highlands reproducible anywhere? Or is this experience in some way unique?
 
-Eason almost gets us killed by not checking his mirrors when changing lanes. The angry driver tails us, but I gesture apologetically and he gives up the chase. We pull over and let him pass us. It's my turn to do the driving.
+Austin almost gets us killed by not checking his mirrors when changing lanes. The angry driver tails us, but I gesture apologetically and he gives up the chase. We pull over and let him pass us. It's my turn to do the driving.
 
 
 ## The Red Sea
@@ -97,18 +97,18 @@ That night we see the entirety of the Milky Way. Most of the named stars have A
 
 It's New Years Eve. I tether my computer to my cell phone and purchase an Indian visa that I'll use in a few days, assuming that we don't get arrested or imprisoned. However, I have a long history of successful trespassing, so I'm not _too_ worried... but I'm still worried.
 
-![Eason sitting in front of the tent on the beach]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journey/eason_tent.png)
+![Austin sitting in front of the tent on the beach]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journey/austin_tent.png)
 
 
 ## Taif
 
 Sleeping on the beach is surprisingly pleasant. Sand somehow entered the tent and is encrusting my body. It's getting light out and the morning breeze is whistling through the dunes. Mosquitoes have devoured my feet. I check WebMD to assess the risk of malaria in the region and discover that I might have lung cancer, leukemia, heart disease, and a contagious skin disease I can't pronounce - the risk of malaria is low but still extant.
 
-The car is stuck in the sand where we pulled off the road. Eason guns the engine while I push. The car dislodges, though it's unclear whether it was actually stuck or if the parking brake was on the whole time. Even early in the morning, this small amount of effort drenches me in sweat: The Red Sea is a small finger of ocean between the Sahara and Arabian Deserts, baking in the sun and pouring out humidity. It's time to head towards Mecca.
+The car is stuck in the sand where we pulled off the road. Austin guns the engine while I push. The car dislodges, though it's unclear whether it was actually stuck or if the parking brake was on the whole time. Even early in the morning, this small amount of effort drenches me in sweat: The Red Sea is a small finger of ocean between the Sahara and Arabian Deserts, baking in the sun and pouring out humidity. It's time to head towards Mecca.
 
 <p style="text-align:center">THE ABODE OF GOD</p>
 
-We continue north on the coastal plane. Vegetation becomes scarcer, as do cars, people, and villages. The horizons melt into a uniform ocean of sand. A sandstorm blows across the highway briefly, but it's not dense enough to force us to stop. Sand is the word: it's omnipresent. I wrap the keffiyeh I bought in Sudan around my head and hope I won't get a sunburn while driving. The heat is exhausting me and consequentially Eason is doing more than his fair share of driving.
+We continue north on the coastal plane. Vegetation becomes scarcer, as do cars, people, and villages. The horizons melt into a uniform ocean of sand. A sandstorm blows across the highway briefly, but it's not dense enough to force us to stop. Sand is the word: it's omnipresent. I wrap the keffiyeh I bought in Sudan around my head and hope I won't get a sunburn while driving. The heat is exhausting me and consequentially Austin is doing more than his fair share of driving.
 
 We take the fork in the road towards Mecca. We pass abandoned buildings. Inside an empty mosque is a pile of rotting Korans, the pages marking the passage of time as they slowly become unstuck and fall to the earth. I penned a little poem in my journal:
 
@@ -119,7 +119,7 @@ We take the fork in the road towards Mecca. We pass abandoned buildings. Inside 
 
 A sign points the way towards the _haram_, an Arabic word which literally means __forbidden__. Things can be haram (like alcohol), but so can places. The holy city is protected by gates of haram to ensure purity, to keep non-believers out. We will soon test them. Another sign reminds us that the coming road is off-limits to non-Muslims.
 
-The terrain becomes sharp. Brown naked mountains rise on every side of us, like we're being swallowed up by an enormous mouth. The temperature drops. There's a menacing silence outside the car. I look at Eason and he looks back and me and it's clear that we're both feeling the ominous build-up of of anxiety and fear.
+The terrain becomes sharp. Brown naked mountains rise on every side of us, like we're being swallowed up by an enormous mouth. The temperature drops. There's a menacing silence outside the car. I look at Austin and he looks back and me and it's clear that we're both feeling the ominous build-up of of anxiety and fear.
 
 The gates of haram are adjacent to checkpoints where non-Muslims are turned away. We decide to drive through a checkpoint to see how stringent the security is, but we aren't detected – the guard doesn't even look at us! We pass through the haram boundary... and decide to turn back, taking a longer, safer route to Taif where we check into a hotel and prepare for the next morning.
 
@@ -129,11 +129,11 @@ We're almost completely unprepared to visit Mecca. Besides its general geographi
 
 A Google search tells us that Muslims perform many rituals before visiting Mecca for the Hajj (yearly pilgrimage) or Umrah (lesser pilgrimage). The Umrah can be performed any time of the year and is less of a commitment than the Hajj: it can be be completed in just a few hours. We'll be doing the Umrah.
 
-I memorize the _shahada_ or Muslim declaration of faith in case I'm asked to profess my belief. Eason is persistent but struggles. We write down prayers and do research until late in the evening.
+I memorize the _shahada_ or Muslim declaration of faith in case I'm asked to profess my belief. Austin is persistent but struggles. We write down prayers and do research until late in the evening.
 
 I tell the hotel staff that I've recently converted to Islam (a white lie) and will be performing the Umrah the next day, testing the reception I'll recieve, and am recieved warmly. Rather than being treated with skepticism, which was my concern, I'm given advice – _mash'allah._ Everyone is friendly, supportive, and curious about the two American Muslims on their first visit to Mecca.
 
-I'm more excited than worried, but I can tell Eason is still a bit on edge.
+I'm more excited than worried, but I can tell Austin is still a bit on edge.
 
 <p style="text-align:center">mash'allah</p>
 <p style="text-align:center">مَا شَاءَ ٱللَّٰهُ</p>
@@ -156,9 +156,9 @@ I was told by the hotel staff last night that I need to stop at a _miqat_ – 
 
 Another example of Saudi Arabia's unique take on modernity: the miqat is perched on a small plateau overlooking an amusement park.
 
-Eason parks and I dash across the parking lot to buy the robes, sandals, and belt that are required as part of our ihram clothing. In the _pilgrimage market_ a South Asian man, possibly not even a Muslim, runs the shop. The sacred task of dispensing pilgrimage clothing is reduced to something less-than-holy when the merchant offers me a _special discount_ – I wasn't prepared to haggle.
+Austin parks and I dash across the parking lot to buy the robes, sandals, and belt that are required as part of our ihram clothing. In the _pilgrimage market_ a South Asian man, possibly not even a Muslim, runs the shop. The sacred task of dispensing pilgrimage clothing is reduced to something less-than-holy when the merchant offers me a _special discount_ – I wasn't prepared to haggle.
 
-We drive a few miles, argue about the best place to change, and I bully Eason into stopping at an abandoned stable, where we sneak inside, strip naked, and emerge as fully-clad pilgrims.
+We drive a few miles, argue about the best place to change, and I bully Austin into stopping at an abandoned stable, where we sneak inside, strip naked, and emerge as fully-clad pilgrims.
 
 We drive past the first (and, as it turns out, only) checkpoint on our way to Mecca. Again, we aren't noticed. The haram gates rise threateningly on either side of the road.
 
@@ -186,7 +186,7 @@ There's no point looking at a map: we follow the surge of bodies down to the mos
 
 It's quiet inside despite the huge number of people. We march forward into the mosque until we see the Kaaba peeking through a sea of arches.
 
-We descend a flight of stairs and are face-to-face with the Kaaba. Eason is extremely nervous, but I feel anonymous in the crowd and begin snapping photos, encouraged by the sight of others taking selfies and Snapchatting their friends. We begin our counterclockwise circumambulation of the black, cloth-covered cube. I pass the Zamzam well (which Muhammad re-discovered early in his prophethood) and circle closer to the cube.
+We descend a flight of stairs and are face-to-face with the Kaaba. Austin is extremely nervous, but I feel anonymous in the crowd and begin snapping photos, encouraged by the sight of others taking selfies and Snapchatting their friends. We begin our counterclockwise circumambulation of the black, cloth-covered cube. I pass the Zamzam well (which Muhammad re-discovered early in his prophethood) and circle closer to the cube.
 
 <p style="text-align:center">!الله أكبر! الله أكبر! الله أكبر</p>
 <p style="text-align:center">God is great! God is great! God is great!</p>
@@ -202,7 +202,7 @@ We exit the city nervously, heading towards Jeddah. We stop on the side of the r
 
 ## Jeddah
 
-Jeddah – boring. We walk around the city searching for food. Eason looks extremely satisfied, hands on his hips and chest puffed out. I'm melting in the heat. This place is dispassionate, secular, uninteresting. In Mecca I saw people from around the world in varying states of religious ecstasy. Even though I'm an atheist, I certainly felt __something__ as I circled the Kaaba. All the layers of modernity and exploitation and fast food and diesel exhaust and buy 1 get 1 free deals and overdevelopment and menacing Abraj al-Bait melted away and something very intimate - intimate despite the presence of tens of thousands of anonymous strangers - seemed to unveil itself around me. I can't say that Mecca was perfect or that it conformed to naive expectations of spiritual enlightenment, but I think its imperfection is what made it all the more meaningful and personal. After all, when you take the stock of God's creation you have to account for both the good and the evil, the mighty and the mundane, the peak of Mount Everest and the KFC down the street. Mecca was an experience that I'll never be able to forget.
+Jeddah – boring. We walk around the city searching for food. Austin looks extremely satisfied, hands on his hips and chest puffed out. I'm melting in the heat. This place is dispassionate, secular, uninteresting. In Mecca I saw people from around the world in varying states of religious ecstasy. Even though I'm an atheist, I certainly felt __something__ as I circled the Kaaba. All the layers of modernity and exploitation and fast food and diesel exhaust and buy 1 get 1 free deals and overdevelopment and menacing Abraj al-Bait melted away and something very intimate - intimate despite the presence of tens of thousands of anonymous strangers - seemed to unveil itself around me. I can't say that Mecca was perfect or that it conformed to naive expectations of spiritual enlightenment, but I think its imperfection is what made it all the more meaningful and personal. After all, when you take the stock of God's creation you have to account for both the good and the evil, the mighty and the mundane, the peak of Mount Everest and the KFC down the street. Mecca was an experience that I'll never be able to forget.
 
 
 ## San Francisco
