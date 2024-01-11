@@ -97,8 +97,6 @@ That night we see the entirety of the Milky Way. Most of the named stars have A
 
 It's New Years Eve. I tether my computer to my cell phone and purchase an Indian visa that I'll use in a few days, assuming that we don't get arrested or imprisoned. However, I have a long history of successful trespassing, so I'm not _too_ worried... but I'm still worried.
 
-![Austin sitting in front of the tent on the beach]({{ site.url }}/assets/images/2020-04-25-a-forbidden-journey/austin_tent.png)
-
 
 ## Taif
 
